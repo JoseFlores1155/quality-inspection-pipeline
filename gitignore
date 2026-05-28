@@ -1,0 +1,22 @@
+# Credenciales y configuración sensible
+.env
+
+# Base de datos local
+*.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Modelos entrenados (pueden ser grandes)
+*.xml
+
+# OS
+.DS_Store
+Thumbs.db
